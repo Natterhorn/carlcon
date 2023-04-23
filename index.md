@@ -5,7 +5,7 @@
 layout: default
 ---
 
-<img src="/assets/img/carlcon_logo_ish.png" height="300" style="margin: 0 auto;display: block;">
+<img src="assets/img/carlcon_logo_ish.png" height="300" style="margin: 0 auto;display: block;">
 
 ### Format:
 Carlcon Presents: Nor-Cal Beer and MCP is a Challenger Event and [LVO Invitiational Qualifier](https://www.lvois.com/)
