@@ -19,9 +19,11 @@ Solano Brewing Company
 5500 Weber Rd, Vacavilla CA 95687
 ### Players:
 Hard cap at 32
+### Waitlist:
+To join the waitlist, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLScHS6qLSm-hoEcXTKAX44kxlyjTeHfinAQgEZc7l2WNddM2Zg/viewform)
 ### Longshanks:
 [https://longshanks.org/event/7753/](https://longshanks.org/event/7753/)
 ### Contact:
-??
+[carl@carlbaughman.com](mailto:carl@carlbaughman.com)
 
 <!-- [Link to another page](./contact-us.html). -->
