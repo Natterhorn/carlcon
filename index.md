@@ -8,9 +8,9 @@ layout: default
 <img src="assets/img/Carlcon-Carl.png" height="300" style="margin: 0 auto;display: block;">
 
 ### Format:
-Carlcon Presents: Nor-Cal Beer and MCP is a Challenger Event and [LVO Invitiational Qualifier](https://www.lvois.com/)
+Carlcon is a Challenger Event and [LVO Invitiational Qualifier](https://www.lvois.com/)
 
-It will be using chess clocks, as outlined in the [LVOIS player packet](https://docs.google.com/document/d/1dm77D_ImWPFaY6aZy90TrdlGBhtGU2if89uZTZhjl3M)
+It will be using chess clocks, as outlined in the [LVOIS player packet](https://docs.google.com/document/d/1zrtl06lB93g62fXkPvCvJITXAQHZUDDBRqRKXxkopnk/edit?tab=t.0)
 ### Date:
 September 6th-7th, 2025
 ### Location:
