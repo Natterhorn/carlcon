@@ -12,15 +12,15 @@ Carlcon Presents: Nor-Cal Beer and MCP is a Challenger Event and [LVO Invitiatio
 
 It will be using chess clocks, as outlined in the [LVOIS player packet](https://docs.google.com/document/d/1dm77D_ImWPFaY6aZy90TrdlGBhtGU2if89uZTZhjl3M)
 ### Date:
-September 7th, 2024
+September 6th-7th, 2025
 ### Location:
-Solano Brewing Company
+Great Escape Games
 
-5500 Weber Rd, Vacavilla CA 95687
+1250 Howe Ave #3A, Sacramento, CA 95825
 ### Players:
-Hard cap at 32
+Hard cap at 64
 ### Longshanks:
-[https://www.longshanks.org/event/12798/](https://www.longshanks.org/event/12798/)
+Coming Soon
 ### Contact:
 [carl@carlbaughman.com](mailto:carl@carlbaughman.com)
 
