@@ -20,7 +20,7 @@ Great Escape Games
 ### Players:
 Hard cap at 64
 ### Longshanks:
-Coming Soon
+[https://www.longshanks.org/event/21870/](https://www.longshanks.org/event/21870/)
 ### Contact:
 [carl@carlbaughman.com](mailto:carl@carlbaughman.com)
 
