@@ -15,9 +15,11 @@ It will be using chess clocks, as outlined in the [LVOIS player packet](https://
 September 6th-7th, 2025
 ### Location:
 Great Escape Games
+
 1250 Howe Ave #3A, Sacramento, CA 95825
 ### Registration:
 Payable at: [paypal.me/carlbaughman/40](https://paypal.me/carlbaughman/40) or email [Carl@carlbaughman.com](mailto:Carl@carlbaughman.com)
+
 Please include the Longshanks number and name of the person you are signing up in the memo
 ### Players:
 Hard cap at 64
