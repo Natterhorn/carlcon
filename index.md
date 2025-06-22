@@ -20,7 +20,7 @@ Great Escape Games
 ### Registration:
 **SOLD OUT!** Please contact Carl below to be added to the waitlist. 
 
-Payable at: [paypal.me/carlbaughman/40](https://paypal.me/carlbaughman/40) or email [Carl@carlbaughman.com](mailto:Carl@carlbaughman.com)
+Email [Carl@carlbaughman.com](mailto:Carl@carlbaughman.com)
 
 Please include the Longshanks number and name of the person you are signing up in the memo
 ### Players:
