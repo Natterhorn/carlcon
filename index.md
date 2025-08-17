@@ -30,4 +30,33 @@ Hard cap at 64
 ### Contact:
 [carl@carlbaughman.com](mailto:carl@carlbaughman.com)
 
+### 2025 Schedule:
+<ins>**Saturday**</ins>
+
+**Registration:** 9:00 AM
+
+**Round One:** 10:00 AM
+
+**Lunch Break:** 12:15 PM
+
+**Round Two:** 1:00 PM
+
+**Round Three:** 3:15 PM
+
+**Round Four:** 5:30 PM
+
+Beer and Pizza at Kong Brewing (after Round Four)
+
+<ins>**Sunday**</ins>
+
+**Check-in:** 9:30 AM
+
+**Round Five:** 10:00 AM
+
+**Lunch Break:** 12:15 PM
+
+**Round Six:** 12:45 PM
+
+**Awards:** 3:00 PM
+
 <!-- [Link to another page](./contact-us.html). -->
