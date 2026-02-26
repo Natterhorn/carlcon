@@ -28,7 +28,7 @@ Hard cap at 64
 ### Contact:
 [carl@carlbaughman.com](mailto:carl@carlbaughman.com)
 
-### 2026 Tentative Schedule:
+### 2026 Schedule:
 <ins>**Saturday**</ins>
 
 **Registration:** 9:00 AM
@@ -58,3 +58,6 @@ Hard cap at 64
 **Awards:** 3:00 PM
 
 <!-- [Link to another page](./contact-us.html). -->
+
+## Past Events
+[2026 Painting Competition](./2026paint.html)
