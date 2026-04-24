@@ -12,19 +12,18 @@ Carlcon is a Challenger Event and [LVO Invitiational Qualifier](https://www.lvoi
 
 It will be using chess clocks, as outlined in the [LVOIS player packet](https://docs.google.com/document/d/1zrtl06lB93g62fXkPvCvJITXAQHZUDDBRqRKXxkopnk/edit?tab=t.0)
 ### Date:
-February 21st-22nd, 2026
+February 20th-21st, 2027
 ### Location:
 Great Escape Games
 
 1250 Howe Ave #3A, Sacramento, CA 95825
 ### Registration:
-To register, send $40 to:[https://www.paypal.me/carlBaughman](https://www.paypal.me/carlBaughman)
+Coming Soon!
 
-Please include the Longshanks number and name of the person you are signing up in the memo
 ### Players:
 Hard cap at 64
 ### Longshanks:
-[https://www.longshanks.org/event/28909/](https://www.longshanks.org/event/28909/)
+[https://www.longshanks.org/event/34457/](https://www.longshanks.org/event/34457/)
 ### Contact:
 [carl@carlbaughman.com](mailto:carl@carlbaughman.com)
 
