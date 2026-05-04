@@ -18,7 +18,15 @@ Great Escape Games
 
 1250 Howe Ave #3A, Sacramento, CA 95825
 ### Registration:
-Coming Soon!
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1TTETUFZbNv0d76h3iXyXc8g"
+  publishable-key="pk_live_51TTDgVFZbNv0d76hd7hKJZiLRFZLOXq1ms2EL7Lw0NK4Yl4uOQS63kGLQqTDQBcBSfJlaEC7LPV2ts6D8AkK6kt400vJ0QyBPp"
+>
+</stripe-buy-button>
 
 ### Players:
 Hard cap at 64
